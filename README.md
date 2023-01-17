@@ -7,3 +7,8 @@ $ npm i @prisma/client
 $ npx prisma init --datasource-provider SQLite
 $ npx prisma migrate dev
 ```
+
+### Prisma studio
+```
+$ npx prisma studio
+```
